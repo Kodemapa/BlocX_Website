@@ -1269,6 +1269,9 @@ ul.link_menu li a:hover {
 .circular-chart.green .circle {
      stroke: #4CC790;
 }
+.circular-chart.purple .circle {
+     stroke: #9757a0;
+}
 
 .circular-chart.blue .circle {
      stroke: #3c9ee5;
