@@ -1190,6 +1190,7 @@ ul.link_menu li a:hover {
 }
 
 .why-blocx {
+     /* word-wrap: break-word; */
      text-align: center;
      padding: 50px 10%;
      background-color: #efefef;
@@ -1200,7 +1201,7 @@ ul.link_menu li a:hover {
      font-size: 40px;
      color: #1f1f1f;
      line-height: 45px;
-     font-weight: bold;
+     font-weight: 200;
      padding: 0;
 }
 
