@@ -603,12 +603,12 @@ button {
 
 .gallery .gallery_img figure img {
      width: 100%;
-     transition: all .5s;
+     /* transition: all .5s; */
      height: 369px;
 }
 
 .gallery .gallery_img figure img:hover {
-     transform: scale(1.2);
+     /* transform: scale(1.2); */
      cursor: pointer;
 }
 
@@ -962,6 +962,7 @@ button {
      }
  }
 
+ 
 .main_form .contactus {
      border: #fff solid 1px;
      padding: 0 15px;
